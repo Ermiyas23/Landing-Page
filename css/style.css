@@ -10,3 +10,25 @@ body{
 .resize{
     flex:0 0 35vh;
 }
+.logo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 4rem 0 4rem;
+}
+.first{
+    justify-content: flex-start;
+    color:#f9faf8;
+    font-size: 24px;
+}
+.logo-link{display: flex;}
+.second{
+    display: flex;
+    margin-left: auto;
+    gap: 12px;
+    font-size: 18px;
+    color:#E5E7EB;
+    list-style-type: none;
+}
+ul a:link{text-decoration: none;
+color:#E5E7EB;}

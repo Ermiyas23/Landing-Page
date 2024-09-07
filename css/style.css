@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    padding:0;
+}
+.dark-holder{
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+.resize{
+    flex:0 0 35vh;
+}

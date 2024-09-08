@@ -105,5 +105,17 @@ color:#E5E7EB;}
     height: 150px;
     border-radius: 10px;
 }
+.description{
+    display: flex;
+    margin: 0  9rem 0 9rem;
+    justify-content: center;
+    align-items: center;
+    text-wrap: wrap;
+    gap: 50px;
+}
+.desc{
+    
+    color:#373e47;
+}
 
 

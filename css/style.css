@@ -184,3 +184,11 @@ color:#E5E7EB;}
     text-align: center;
     padding-top: 1px;
 }
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: #1f2937;
+    color:#ffffff;
+}
